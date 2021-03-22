@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Genshing Impact WebApp**
 
-- 🌱 I’m currently learning **ReactJS Working with Api**
+- 🌱 I’m currently learning **Back-End With ExpressJs & Nodejs & MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://my-application-368c0.web.app](https://my-application-368c0.web.app)
 
